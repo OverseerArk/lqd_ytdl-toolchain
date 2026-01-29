@@ -1,0 +1,78 @@
+{
+    "#background": {
+        "colours": {
+            "dark_bg": "#667eea,#764ba2,136deg"
+        }
+    },
+
+    "#header": {
+        "colours": {
+            "normal_bg": "#667eea"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": 2
+        }
+    },
+
+    "#title": {
+        "font": {
+            "name":"Segoe UI",
+            "size": 50
+        },
+        "colours": {
+            "normal_text": "#ffffff"
+        }
+    },
+
+    "#subtitle": {
+        "font": {
+            "name":"Segoe UI",
+            "size": 35
+        },
+        "colours": {
+            "normal_text": "#ffffff"
+        }
+    },
+
+    "#main_panel": {
+        "colours": {
+            "normal_bg": "#ffffff"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": 10,
+            "border_radius": 16
+        }
+    },
+
+    "#field_label": {
+        "font": {
+            "name":"Segoe UI",
+            "size": 36
+        },
+        "colours": {
+            "normal_text": "#ffffff"
+        },
+        "misc":{
+            "text_horiz_alignment": "left"
+        }
+    },
+
+    "#download_button": {
+        "colours": {
+            "normal_bg": "#667eea",
+            "hovered_bg": "#764ba2",
+            "normal_text": "#ffffff"
+        }
+    },
+
+    "#progress_panel": {
+        "colours": {
+            "normal_bg": "#f5f6f8"
+        },
+        "misc": {
+            "border_radius": 8
+        }
+    }
+}

@@ -1,0 +1,272 @@
+{
+    "default": {
+        "colours": {
+            "normal_text": "#000000"
+        }
+    },
+
+    "#header": {
+        "colours": {
+            "dark_bg": "#667eea,#764ba2,136deg"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "4"
+        }
+    },
+
+    "#main_panel": {
+        "colours": {
+            "dark_bg": "#ffffff"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "4"
+        }
+    },
+
+
+    "#title": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "28",
+            "bold": "1"
+        },
+        "colours": {
+            "normal_text": "#2cffff, #4effff, #ffffff, 120deg"
+        },
+        "misc": {
+            "text_horiz_alignment": "center"
+        }
+    },
+
+    "#title2": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "28",
+            "bold": "1"
+        },
+        "colours": {
+            "normal_text": "#2cffff, #4effff, #ffffff, 120deg"
+        },
+        "misc": {
+            "text_horiz_alignment": "center"
+        }
+    },
+
+
+    "#subtitle": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "16",
+            "bold": "1"
+        },
+        "colours": {
+            "normal_text": "#ffffff"
+        },
+        "misc": {
+            "text_horiz_alignment":"center"
+        }
+    },
+
+    "#background": {
+        "colours": {
+            "dark_bg": "#667eea,#764ba2,136deg"
+        }
+    },
+
+    "#subtitle2": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "16",
+            "bold": "1"
+        },
+        "colours": {
+            "normal_text": "#ffffff"
+        },
+        "misc": {
+            "text_horiz_alignment":"center"
+        }
+    },
+
+    "#info": {
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "4"
+        }
+    },
+
+    
+    "#url": {
+        "colours": {
+            "dark_bg": "#ffffff",
+            "normal_border": "#3f3f3f",
+            "text_cursor": "#000000",
+            "normal_text":"#000000"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "4",
+            "border_width": "1"
+        }
+    },
+
+    "#save": {
+        "colours": {
+            "dark_bg": "#ffffff",
+            "normal_border": "#3f3f3f",
+            "text_cursor": "#000000",
+            "normal_text":"#000000"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "4",
+            "border_width": "1"
+        }
+    },
+
+    "#bitrate": {
+        "colours": {
+            "dark_bg": "#ffffff",
+            "normal_border": "#3f3f3f",
+            "text_cursor": "#000000",
+            "normal_text":"#000000"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "4",
+            "border_width": "1"
+        }
+    },
+
+    "#filename": {
+        "colours": {
+            "dark_bg": "#ffffff",
+            "normal_border": "#3f3f3f",
+            "text_cursor": "#000000",
+            "normal_text":"#000000"
+        },
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": "4",
+            "border_width": "1"
+        }
+    },
+
+    "#metadata": {
+        "font": {
+            "name":"fira_code",
+            "size": "16",
+            "bold": "1"
+        },
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment":"center"
+        }
+    },
+
+    "#thumbnail": {
+        "font": {
+            "name":"fira_code",
+            "size": "16",
+            "bold": "1"
+        },
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment":"center"
+        }
+    },
+
+    "#download": {
+        "colours": {
+            "dark_bg": "#667eea,#764ba2,136deg"
+        }
+    },
+
+
+    
+    "#format": {
+        "colours": {
+            "normal_bg": "#ffffff",
+            "normal_border": "#3f3f3f",
+            "disabled_bg": "#2c2c2c",
+            "disabled_border": "#667eaa"
+        },
+        "misc": {
+            "border_width": "1",
+            "shadow_width": "2",
+            "shape_corner_radius": "2"
+        }
+    },
+
+
+
+    "#_url": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "16"
+        },
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment":"left"
+        }
+    },
+
+    "#_outfile": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "16"
+        },
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment":"left"
+        }
+    },
+    "#_save": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "16"
+        },
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment":"left"
+        }
+    },
+    "#_bitrate": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "16"
+        },
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment":"left"
+        }
+    },
+    "#_filename": {
+        "font": {
+            "name":"Segoe UI",
+            "size": "16"
+        },
+        "colours": {
+            "normal_text": "#000000"
+        },
+        "misc": {
+            "text_horiz_alignment":"left"
+        }
+    }
+}
